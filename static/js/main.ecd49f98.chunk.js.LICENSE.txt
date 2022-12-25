@@ -1,0 +1,3 @@
+//![1] set up some states
+
+//![5] store our list item in local storage
